@@ -98,9 +98,9 @@ P.S For anyone who is double curious, I have wrote a couple extra things too:
 <br>
 I think the eraser is a unique solution for having a brush that can be affected by the texture of your brushstrokes. In this case, through the filter engine via edge-detection. It’s not perfect, but it’s certainly interesting (to me anyway) xD
 
-![Toolkit Diagram](https://github.com/user-attachments/assets/93264b8c-cf89-41c8-8d2b-2b3ddb8b1580)
+As for adding universal RGBA, I think the “height” one has the most realistic result, although its subtle.
 
-As for adding universal RGBA, I think the “height” one has the most realistic result, although its subtle. Lock transparency with that brush!
+![Toolkit Diagram](https://github.com/user-attachments/assets/93264b8c-cf89-41c8-8d2b-2b3ddb8b1580)
 
 <br>
 <hr>
